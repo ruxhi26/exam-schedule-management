@@ -1,0 +1,4 @@
+<!DOCTYPE html><html><head><title>Exam Schedule Management System</title><link rel="stylesheet" href="assets/css/style.css"></head>
+<body><div class="navbar"><b>Exam Schedule Management System</b><div><a href="login.php">Admin Login</a><a href="student/login.php">Student Login</a></div></div>
+<div class="container"><div class="hero"><h1>Exam Schedule Management System</h1><p>Simple web-based system for managing and viewing college examination schedules.</p><a class="btn" href="student/login.php">View Student Schedule</a></div>
+<div class="grid" style="margin-top:22px"><div class="card"><h3>Administrator</h3><p>Manage subjects, rooms and examination schedules.</p></div><div class="card"><h3>Student</h3><p>View and search examination timetable details.</p></div><div class="card"><h3>Database</h3><p>MySQL stores users, subjects, rooms and exams.</p></div></div></div></body></html>
